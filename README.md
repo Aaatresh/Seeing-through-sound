@@ -26,14 +26,6 @@ Here, we explore two algorithms that can be used to help the visually impaired s
 ### Data
 The image that is to be described must be fed into the system. To train the "show and tell" model, a large dataset of images and their corresponding captions would be required, and these can be stored in a directory before training.
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
 ## Authors
 
 Contributors names and contact info:
